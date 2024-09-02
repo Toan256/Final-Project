@@ -12,8 +12,27 @@ This study specifies three main objectives, including:
 What factors influence salary, and how do they impact it?
 
 ## 4.	Research scope
-Data of Vietnamese workforce in 2023 from multiple sources, including surveys, job posting sites, and other publicly available sources. A total of 6704 data points were collected.The dataset included fivevariables: age, experience, job role, and education level and salary.
+Data of Vietnamese workforce in 2023 from multiple sources, including surveys, job posting sites, and other publicly available sources. A total of 6698 data points were collected.The dataset included fivevariables: age, experience, job role, and education level and salary.
+Original data source: https://docs.google.com/spreadsheets/d/1O45dk0h5SaVkq5VVn4_dVp11rkNXVY6ziwdbkOxX9h8/edit?usp=sharing
+| Age | Gender | Education Level   | Job Title                             | Years of Experience | Salary  |
+|-----|--------|-------------------|---------------------------------------|---------------------|---------|
+| 32  | Male   | Bachelor's        | Software Engineer                     | 5                   | 9000    |
+| 28  | Female | Master's          | Data Analyst                          | 3                   | 6500    |
+| 45  | Male   | PhD               | Senior Manager                        | 15                  | 15000   |
+| 36  | Female | Bachelor's        | Sales Associate                       | 7                   | 6000    |
+| 52  | Male   | Master's          | Director                              | 20                  | 20000   |
+| 29  | Male   | Bachelor's        | Marketing Analyst                     | 2                   | 5500    |
 
+Cleaned data source: https://docs.google.com/spreadsheets/d/1v_P_q5EWeNMHFTpal7MgBTVpdouhhXRARNxMOcmCiWU/edit?usp=sharing
+| Age | Gender | Education Level | Years of Experience | level | field | Salary  |
+|-----|--------|-----------------|---------------------|-------|-------|---------|
+| 32  | 1      | 2               | 5                   | 2     | 1     | 9000    |
+| 28  | 0      | 3               | 3                   | 2     | 2     | 6500    |
+| 45  | 1      | 4               | 15                  | 9     | 3     | 15000   |
+| 36  | 0      | 2               | 7                   | 2     | 4     | 6000    |
+| 52  | 1      | 3               | 20                  | 10    | 3     | 20000   |
+| 29  | 1      | 2               | 2                   | 2     | 5     | 5500    |
+| 42  | 0      | 3               | 12                  | 8     | 6     | 12000   |
 
 ## 5.	Research object
 This research examines the factors affecting Vietnamese labor’s salary
