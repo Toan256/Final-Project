@@ -1,5 +1,5 @@
 # GRADUATION PROJECT
-## 1.	Research Overview
+## 1.	Research goal
 The salary of an individual is influenced by various factors. This study aims to explore and analyze the determinants of Vietnamese salary and develop a predictive model based on relevant variables. The independent variables considered in the research include age, gender, education level, years of experience, job level, and job field. The dependent variable is salary. By applying statistical methods and data modeling techniques, the study will assess the impact of each factor on salary and propose an effective salary prediction model. The findings of this research can provide valuable insights for individuals, employers, and policymakers in making informed decisions regarding compensation.
 
 ## 2.	Research objective
